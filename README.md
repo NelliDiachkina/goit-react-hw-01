@@ -10,11 +10,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
   uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Завдання 1 - Профіль соціальної мережі
+### Завдання 1 - Профіль соціальної мережі
 
-## Завдання 2 - Список друзів
+### Завдання 2 - Список друзів
 
-## Завдання 3 - Історія транзакцій
+### Завдання 3 - Історія транзакцій
 
 ![photo_2024-05-12_12-43-27](https://github.com/NelliDiachkina/goit-react-hw-01/assets/99911692/cc156c52-5601-453e-a572-f95a9586b01a)
 
