@@ -1,4 +1,13 @@
 :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
   --BorderGrey: #787884;
   --BorderCard: #000000;
   --BackgroundItems: #cfcfcf;
@@ -8,22 +17,6 @@
   --TextLight: #ffffff;
   --ColorRed: #ce1010;
   --ColorGreen: #3d8506;
-}
-
-body {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #000000;
-  background-color: #ffffff;
-}
-
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
 }
 
 ul {
