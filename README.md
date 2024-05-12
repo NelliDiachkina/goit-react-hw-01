@@ -15,3 +15,6 @@ Currently, two official plugins are available:
 ## Завдання 2 - Список друзів
 
 ## Завдання 3 - Історія транзакцій
+
+![photo_2024-05-12_12-43-27](https://github.com/NelliDiachkina/goit-react-hw-01/assets/99911692/cc156c52-5601-453e-a572-f95a9586b01a)
+
